@@ -1,19 +1,12 @@
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
+### Hi, my name is Ruann van der Hoff 👋 and I ❤️ DevOps and Cloud Architecture
 
-### Hi, my name is Dani 👋 and I ❤️ AI and Open-Source
-
-**Field of interests**: LLM, NLP, RL, Graphs, Distributed Systems
-
-**My telegram channel**: [Cat's Shredinger](https://t.me/cats_shredinger)
+**Field of interests**: Cloud Solution Architecture and DevOps
 
 <!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
 ### Skills 🛠️
-- **Languages**:&nbsp;                         Python, SQL
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
+- **Languages**:&nbsp;                         PowerShell, HTML, CSS
+- **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Azure, AWS
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Work experience 👔
