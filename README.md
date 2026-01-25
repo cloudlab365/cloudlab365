@@ -6,7 +6,7 @@
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         PowerShell, HTML, CSS
-- **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Azure, AWS
+- **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Azure, AWS
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Projects 🐾
