@@ -6,23 +6,8 @@
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         PowerShell, HTML, CSS
-- **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Azure, AWS
+- **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Azure, AWS
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
-
-### Work experience 👔
-| Job Position                  | Company                    | Field                         | Work Period           |
-| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-| **Head of AI Transformation** | **Social Discovery Group** | **LLM, Conversational AI**    | **2024-05 — 2025-03** |
-| Research Scientist Lead       | SberDevices                | LLM, GigaChat                 | 2023-04 — 2024-05     |
-| NLP Team Lead                 | SberDevices                | Search, Information Retrieval | 2022-10 — 2023-04     |
-| NLP Tech Lead                 | Sber AI Lab                | NLP, MLOps, Mentoring         | 2021-05 — 2022-10     |
-| Senior NLP Engineer           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | 2021-02 — 2021-04     |
-| Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02     |
-| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05     |
-
-### Education 🎓
-- [Master’s Degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
-- [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
 
 ### Projects 🐾
 - [MUSE TF -> PT](https://github.com/dayyass/muse_tf2pt) - convert Multilingual Universal Sentence Encoder from TensorFlow to PyTorch and ONNX
@@ -32,13 +17,6 @@
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
-
-### Public talks 🗣
-- [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
-- [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
-- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
-- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
 
 ### Certifications 📜
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
