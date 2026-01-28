@@ -1,16 +1,16 @@
-### Hi, my name is Ruann van der Hoff 👋 and I ❤️ DevOps and Cloud Architecture
+### Hi, my name is Ruann van der Hoff 👋 DevOps and Cloud Architecture Engineer
 
-**Field of interests**: Cloud Solution Architecture and DevOps
+**Field of interests**: Cloud Solution Architecture, DevOps and IaC
 
 <!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         PowerShell, HTML, CSS
 - **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Azure, AWS
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Docker
 
 ### Projects 🐾
-- [MUSE TF -> PT](https://github.com/dayyass/muse_tf2pt) - convert Multilingual Universal Sentence Encoder from TensorFlow to PyTorch and ONNX
+- Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/dayyass/muse_tf2pt)
 - [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
 - [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
