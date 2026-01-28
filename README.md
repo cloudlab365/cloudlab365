@@ -26,9 +26,9 @@
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/DC2AA27151FE73ED?sharingId=9C51F3B61340ED9C)
 
 ### Currently Enrolled Training  📜
-- KodeKloud Cloud & DevOps Engineer Program (In Progress)
-Practical labs in Docker, Linux administration, Kubernetes orchestration, AWS & Azure cloud services, Terraform IaC, and Ansible automation
-Exercises simulate real enterprise cloud environments and operational workflows
+- KodeKloud Cloud & DevOps Engineer Program (In Progress)&nbsp;
+**Practical labs in Docker, Linux administration, Kubernetes orchestration, AWS & Azure cloud services, Terraform IaC, and Ansible automation**
+**Exercises simulate real enterprise cloud environments and operational workflows**
 
 &nbsp;
 &nbsp;
