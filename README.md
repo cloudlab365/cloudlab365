@@ -13,7 +13,7 @@
 - Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/cloudlab365/Azure-Virtual-Network-Hub-and-Spoke-Architecture-Deployment)
 - Scalable Web App Using Azure App Services + Azure SQL + Storage (https://github.com/cloudlab365/Scalable-Web-App-Using-Azure-App-Services-Azure-SQL-Storage) 
 - Azure Monitoring & Backup System with Alerts (https://github.com/cloudlab365/Azure-Monitoring-Backup-System-with-Alerts)
-- Automated VM Deployment Using Azure CLI + Bash/PowerShell Script (https://github.com/dayyass/pytorch-ner)
+- Automated VM Deployment Using Azure CLI + Bash/PowerShell Script (https://github.com/cloudlab365/Automated-VM-Deployment-Using-Azure-CLI-PowerShell-Script)
 
 ### Projects (AZ-305 - Azure Solution Architecture) 🐾
 - In Progress
