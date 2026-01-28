@@ -13,10 +13,9 @@
 - Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/dayyass/muse_tf2pt)
 - Scalable Web App Using Azure App Services + Azure SQL + Storage (https://github.com/dayyass/QaNER) 
 - Azure Virtual Desktop (AVD) Environment for Remote Teams (https://github.com/dayyass/rllib)
-- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
+- Azure Monitoring & Backup System with Alerts (https://github.com/dayyass/muse-as-service)
+- Automated VM Deployment Using Azure CLI + Bash/PowerShell Script (https://github.com/dayyass/pytorch-ner)
+- CI/CD Pipeline with GitHub Actions Deploying to Azure Web App (https://github.com/dayyass/text-classification-baseline)
 
 ### Projects (AZ-305 - Azure Solution Architecture) 🐾
 - In Progress
@@ -28,7 +27,7 @@
 - Microsoft 365 Certified: Administrator Expert (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/92BDC927C45B6E3D?sharingId=9C51F3B61340ED9C)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/DC2AA27151FE73ED?sharingId=9C51F3B61340ED9C)
 
-
+&nbsp;
 More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
 
 
@@ -38,6 +37,4 @@ More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
 
 &nbsp;
 
-## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
