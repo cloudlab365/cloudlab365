@@ -27,7 +27,7 @@
 
 &nbsp;
 &nbsp;
-More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
+More information in my [LinkedIn] (https://www.linkedin.com/in/ruann-van-der-hoff-30a11733/) 🚀
 
 
 ## 🧰 &nbsp;My toolbox
