@@ -2,44 +2,31 @@
 
 **Field of interests**: Cloud Solution Architecture, DevOps and IaC
 
-<!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
+<!-- **Curriculum Vitae**: [cv.pdf](https://github.com/cloudlabcv.pdf) -->
 
 ### Skills 🛠️
 - **Languages**:&nbsp;                         PowerShell, HTML, CSS
 - **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Azure, AWS
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Docker
 
-### Projects 🐾
+### Projects (AZ-104 - Azure Administrator) 🐾
 - Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/dayyass/muse_tf2pt)
-- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
-- [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
+- Scalable Web App Using Azure App Services + Azure SQL + Storage (https://github.com/dayyass/QaNER) 
+- Azure Virtual Desktop (AVD) Environment for Remote Teams (https://github.com/dayyass/rllib)
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
 
+### Projects (AZ-305 - Azure Solution Architecture) 🐾
+- In Progress
+
 ### Certifications 📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
-
-<!--- ### Conference participation 📈
-- IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
-- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
-
-### Hackathon participation 💻
-- [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
-- [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
-
-### Achievements 🏆
-- Key contributor to [GigaChat](https://habr.com/ru/companies/sberbank/articles/730108/): Russian [most advanced](https://habr.com/ru/companies/sberdevices/articles/790470/) LLM
-- 500+ stars on GitHub and [10 packages](https://pypi.org/user/dayyass/) in **PyPI** with [38k+](https://pepy.tech) downloads
-- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
-- Open Data Science **Best Contributor 2020**
-
-### GitHub Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- Microsoft Certified: Azure Administrator Associate (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/19D7546E109110BF?sharingId=9C51F3B61340ED9C)
+- Microsoft Certified: Azure Solutions Architect Expert (In Progress)
+- Microsoft 365 Certified: Endpoint Administrator Associate (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/3B39D10C8B3D8E7F?sharingId=9C51F3B61340ED9C)
+- Microsoft 365 Certified: Administrator Expert (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/92BDC927C45B6E3D?sharingId=9C51F3B61340ED9C)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/DC2AA27151FE73ED?sharingId=9C51F3B61340ED9C)
 
 More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
 
