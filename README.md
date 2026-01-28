@@ -25,6 +25,11 @@
 - Microsoft 365 Certified: Administrator Expert (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/92BDC927C45B6E3D?sharingId=9C51F3B61340ED9C)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/DC2AA27151FE73ED?sharingId=9C51F3B61340ED9C)
 
+### Currently Enrolled Training  📜
+- KodeKloud Cloud & DevOps Engineer Program (In Progress)
+Practical labs in Docker, Linux administration, Kubernetes orchestration, AWS & Azure cloud services, Terraform IaC, and Ansible automation
+Exercises simulate real enterprise cloud environments and operational workflows
+
 &nbsp;
 &nbsp;
 More information in my &nbsp; <a href="https://www.linkedin.com/in/ruann-van-der-hoff-30a11733/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> &nbsp; 🚀
