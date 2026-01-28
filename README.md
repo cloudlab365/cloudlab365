@@ -27,8 +27,8 @@
 
 ### Currently Enrolled Training  📜
 - KodeKloud Cloud & DevOps Engineer Program (In Progress)&nbsp;
-**Practical labs in Docker, Linux administration, Kubernetes orchestration, AWS & Azure cloud services, Terraform IaC, and Ansible automation**
-**Exercises simulate real enterprise cloud environments and operational workflows**
+*Practical labs in Docker, Linux administration, Kubernetes orchestration, AWS & Azure cloud services, Terraform IaC, and Ansible automation
+*Exercises simulate real enterprise cloud environments and operational workflows
 
 &nbsp;
 &nbsp;
