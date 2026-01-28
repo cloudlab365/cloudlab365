@@ -11,11 +11,9 @@
 
 ### Projects (AZ-104 - Azure Administrator) 🐾
 - Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/cloudlab365/Azure-Virtual-Network-Hub-and-Spoke-Architecture-Deployment)
-- Scalable Web App Using Azure App Services + Azure SQL + Storage (https://github.com/dayyass/QaNER) 
-- Azure Virtual Desktop (AVD) Environment for Remote Teams (https://github.com/dayyass/rllib)
-- Azure Monitoring & Backup System with Alerts (https://github.com/dayyass/muse-as-service)
+- Scalable Web App Using Azure App Services + Azure SQL + Storage (https://github.com/cloudlab365/Scalable-Web-App-Using-Azure-App-Services-Azure-SQL-Storage) 
+- Azure Monitoring & Backup System with Alerts (https://github.com/cloudlab365/Azure-Monitoring-Backup-System-with-Alerts)
 - Automated VM Deployment Using Azure CLI + Bash/PowerShell Script (https://github.com/dayyass/pytorch-ner)
-- CI/CD Pipeline with GitHub Actions Deploying to Azure Web App (https://github.com/dayyass/text-classification-baseline)
 
 ### Projects (AZ-305 - Azure Solution Architecture) 🐾
 - In Progress
