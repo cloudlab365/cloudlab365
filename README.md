@@ -10,7 +10,7 @@
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Docker
 
 ### Projects (AZ-104 - Azure Administrator) 🐾
-- Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/dayyass/muse_tf2pt)
+- Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/cloudlab365/Azure-Virtual-Network-Hub-and-Spoke-Architecture-Deployment)
 - Scalable Web App Using Azure App Services + Azure SQL + Storage (https://github.com/dayyass/QaNER) 
 - Azure Virtual Desktop (AVD) Environment for Remote Teams (https://github.com/dayyass/rllib)
 - Azure Monitoring & Backup System with Alerts (https://github.com/dayyass/muse-as-service)
