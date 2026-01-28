@@ -28,6 +28,7 @@
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (https://learn.microsoft.com/api/credentials/share/en-us/RuannVanDerHoff-6613/DC2AA27151FE73ED?sharingId=9C51F3B61340ED9C)
 
 &nbsp;
+&nbsp;
 More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
 
 
