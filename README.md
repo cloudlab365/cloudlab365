@@ -9,7 +9,7 @@
 - **Cloud**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Azure, AWS
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Docker
 
-### Projects (AZ-104 - Azure Administrator) 🐾
+### Projects (AZ-104 - Azure Administrator) 🐾 **(Video guides are currently in progress and will be uploaded here soon to provide a clearer, visual walkthrough of the setup.)**
 - Azure Virtual Network + Hub‑and‑Spoke Architecture Deployment (https://github.com/cloudlab365/Azure-Virtual-Network-Hub-and-Spoke-Architecture-Deployment)
 - Scalable Web App Using Azure App Services + Azure SQL + Storage (https://github.com/cloudlab365/Scalable-Web-App-Using-Azure-App-Services-Azure-SQL-Storage) 
 - Azure Monitoring & Backup System with Alerts (https://github.com/cloudlab365/Azure-Monitoring-Backup-System-with-Alerts)
